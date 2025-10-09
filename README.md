@@ -1,3 +1,7 @@
+# This repo is ARCHIVED as the code has been moved to <https://github.com/Phala-Network/phala-cloud/tree/main/cli>
+
+---
+
 <h1 align="center">Phala Cloud CLI</h1>
 <p align="center">
   <b>Secure. Confidential. Verifiable.</b>
